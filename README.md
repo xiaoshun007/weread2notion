@@ -21,10 +21,6 @@
 ![group (1)](https://github.com/malinkang/weread2notion/assets/3365208/ac2d899a-2a7e-4e25-a2b5-c94e2e2ac6b7)
 
 
-## 捐赠
-
-如果你觉得本项目帮助了你，请作者喝一杯咖啡，你的支持是作者最大的动力。本项目会持续更新。
-
-![](./asset/WechatIMG27.jpg)
-
+## 使用文档
+https://malinkang.com/posts/weread2notion/#fork%E5%B7%A5%E7%A8%8B
 
